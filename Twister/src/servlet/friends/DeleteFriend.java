@@ -25,7 +25,7 @@ public class DeleteFriend extends HttpServlet {
      */
     public DeleteFriend() {
         super();
-        // TODO Auto-generated constructor stub
+        // TODO Auto-generated constructor stub test pour commit blabla bla
     }
 
 	/**
