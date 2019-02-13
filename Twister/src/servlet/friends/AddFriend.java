@@ -16,6 +16,8 @@ import service.ServiceFriend;
 
 /**
  * Servlet implementation class AddFriend
+ * 
+ * 
  */
 @WebServlet("/AddFriend")
 public class AddFriend extends HttpServlet {
